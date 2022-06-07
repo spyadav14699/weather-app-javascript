@@ -13,7 +13,7 @@ A mini logical project of javascript
 
 ## 🔴 Live Demo
 
-👉 **Preview**: https://deft-cannoli-117d01.netlify.app/
+👉 **Preview**: https://polite-jalebi-40c8a0.netlify.app/
 
 ## 🖥️ Technologies
 
